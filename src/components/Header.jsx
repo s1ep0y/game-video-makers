@@ -13,7 +13,7 @@ const Header = () => {
 
   return (
     <header className="page-header">
-      <p>header11</p>
+      <p>header</p>
     </header>
   );
 };

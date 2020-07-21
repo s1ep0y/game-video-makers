@@ -13,7 +13,7 @@ const Navbar = () => {
 
   return (
     <div className="page-navbar">
-      <p>Navbar123</p>
+      <p>Navbar</p>
     </div>
   );
 };
