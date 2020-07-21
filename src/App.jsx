@@ -14,7 +14,7 @@ function App() {
     <div className="App">
       <Navbar/>
       <Header/>
-      <p>wrap content</p>
+      <p>hello jopa</p>
     </div>
   );
 }
